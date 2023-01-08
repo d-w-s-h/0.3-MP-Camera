@@ -6,7 +6,7 @@ This Privacy Policy describes the information collected through mobile applicati
 
 0.3MP Camera:
 1. contains in-app purchases.
-2. requires permissions to use the camera android.permission.CAMERA and microphone android.permission.RECORD_AUDIO. The camera and microphone are used by the application to implement the main function of Super 16 - video recording with real-time processing.
+2. requires permissions to use the camera android.permission.CAMERA. The camera is used by the application to implement the main function of 0.3MP Camera - taking shots with processing.
 3. requires permission to save recorded videos in external storage android.permission.WRITE_EXTERNAL_STORAGE.
 
 #### Personal Information
