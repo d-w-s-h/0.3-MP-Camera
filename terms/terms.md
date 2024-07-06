@@ -2,7 +2,7 @@
 
 ### END USER LICENSE AGREEMENT
 
-Last updated June 04, 2022
+Last updated June 06, 2024
 
 0.3MP Camera is licensed to You (End-User) by Dmitry Shatilov ("Licensor"), for use only under the terms of this License Agreement.
 
@@ -17,11 +17,13 @@ This License Agreement may not provide for usage rules for the Licensed Applicat
 
 #### 1. THE APPLICATION
 
-0.3MP Camera ("Licensed Application") is a piece of software created to help filmmakers record cinematic mobile videos — and customized for iOS mobile devices ("Devices"). It is used to record videos as 16mm cameras.
+0.3MP Camera ("Licensed Application") is a piece of software created to help users to reproduce the style of 0.3MP cameras of old mobile phones — and customized for iOS mobile devices ("Devices").
 
-Furthermore, it is used to take photos, edit photos and edit videos.
+Furthermore, it is used to take photos, shoot videos, edit photos and edit videos.
 
 The Licensed Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Licensed Application. You may not use the Licensed Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
+
+Licensed Application is not affiliated with, endorsed by, or sponsored by Nokia Corporation or HMD Global. All trademarks and copyrights are the property of their respective owners.
 
 
 #### 2. SCOPE OF LICENSE
@@ -66,7 +68,7 @@ You acknowledge that the Licensor may periodically collect and use technical dat
 
 #### 6. USER-GENERATED CONTRIBUTIONS
 
-The Licensed Application does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or in the Licensed Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Licensed Application and through third-party websites or applications. As such, any Contributions you transmit may be treated in accordance with the Licensed Application Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
+The Licensed Application does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or in the Licensed Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, themes, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Licensed Application and through third-party websites or applications. As such, any Contributions you transmit may be treated in accordance with the Licensed Application Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
 
 1. The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
 2. You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Licensed Application, and other users of the Licensed Application to use your Contributions in any manner contemplated by the Licensed Application and this License Agreement.
@@ -100,6 +102,7 @@ We do not assert any ownership over your Contributions. You retain full ownershi
 
 8.2  Licensor takes no accountability or responsibility for any damages caused due to a breach of duties according to Section 2 of this License Agreement. To avoid data loss, You are required to make use of backup functions of the Licensed Application to the extent allowed by applicable third-party terms and conditions of use. You are aware that in case of alterations or manipulations of the Licensed Application, You will not have access to the Licensed Application.
 
+8.3 The Licensor is not liable for any intellectual property infringements arising from user-generated content. Users agree to indemnify and hold the application harmless from any claims, damages, or expenses resulting from their uploaded content.
 
 #### 9. WARRANTY
 
@@ -153,7 +156,11 @@ In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer
 
 #### 15. INTELLECTUAL PROPERTY RIGHTS
 
-Dmitry Shatilov and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Dmitry Shatilov, and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
+15.1  Inspiration Disclaimer: The themes in Licensed Application are inspired by the visual style of Nokia Series 40 themes. These themes are original creations and do not use any original files or assets from Nokia Series 40.
+
+15.2  Intellectual Property Protection: Themes design, the theme-switching functionality and the functionality for uploading user-generated themes of the Licensed Application are protected by copyright law. Unauthorized copying, reproduction, or distribution of these elements is prohibited and may result in legal action.
+
+15.3  Dmitry Shatilov and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Dmitry Shatilov, and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
 
 
 #### 16. APPLICABLE LAW
