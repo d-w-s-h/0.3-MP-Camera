@@ -156,9 +156,9 @@ In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer
 
 #### 15. INTELLECTUAL PROPERTY RIGHTS
 
-15.1  Inspiration Disclaimer: The themes in Licensed Application are inspired by the visual style of Nokia Series 40 themes. These themes are original creations and do not use any original files or assets from Nokia Series 40.
+15.1  Inspiration Disclaimer: The themes and pixel graphics in Licensed Application are inspired by the general visual style associated with classic mobile interfaces, including Nokia Series 40. These themes and pixel graphics are original creations adapted to modern touch screen devices and do not use any original files or assets from Nokia Series 40.
 
-15.2  Intellectual Property Protection: Themes design, the theme-switching functionality and the functionality for uploading user-generated themes of the Licensed Application are protected by copyright law. Unauthorized copying, reproduction, or distribution of these elements is prohibited and may result in legal action.
+15.2  Intellectual Property Protection: Touchscreen themes design, the theme-switching functionality and the functionality for uploading user-generated themes of the Licensed Application are protected by copyright law. Unauthorized copying, reproduction, or distribution of these elements is prohibited and may result in legal action.
 
 15.3  Dmitry Shatilov and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Dmitry Shatilov, and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
 
