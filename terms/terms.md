@@ -2,7 +2,7 @@
 
 ### END USER LICENSE AGREEMENT
 
-Last updated June 06, 2024
+Last updated August 20, 2026
 
 0.3MP Camera is licensed to You (End-User) by Dmitry Shatilov ("Licensor"), for use only under the terms of this License Agreement.
 
@@ -23,7 +23,7 @@ Furthermore, it is used to take photos, shoot videos, edit photos and edit video
 
 The Licensed Application is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Licensed Application. You may not use the Licensed Application in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
-Licensed Application is not affiliated with, endorsed by, or sponsored by Nokia Corporation or HMD Global. All trademarks and copyrights are the property of their respective owners.
+Licensed Application is not affiliated with, endorsed by, or sponsored by Nokia Corporation or HMD Global. 0.3MP Camera is a registered international trademark (WIPO 1912614) owned by Dmitry Shatilov. All trademarks and copyrights are the property of their respective owners.
 
 
 #### 2. SCOPE OF LICENSE
@@ -161,6 +161,8 @@ In Accordance with Section 9 of the "Instructions for Minimum Terms of Developer
 15.2  Intellectual Property Protection: Touchscreen themes design, the theme-switching functionality and the functionality for uploading user-generated themes of the Licensed Application are protected by copyright law. Unauthorized copying, reproduction, or distribution of these elements is prohibited and may result in legal action.
 
 15.3  Dmitry Shatilov and the End-User acknowledge that, in the event of any third-party claim that the Licensed Application or the End-User's possession and use of that Licensed Application infringes on the third party's intellectual property rights, Dmitry Shatilov, and not the Services, will be solely responsible for the investigation, defense, settlement, and discharge or any such intellectual property infringement claims.
+
+15.4  Trademark Protection: "0.3MP Camera" is a registered international trademark (WIPO 1912614) owned by Dmitry Shatilov. The registered trademark is a combined mark consisting of the word element "0.3MP Camera" and a figurative element (the application icon and its graphic design), including the specific color scheme set out in the trademark registration (collectively, the "Trademark"). Any use of the Trademark, in whole or in part — including the "0.3MP Camera" name, the icon, its graphic design, iconography, visual style, or the protected color combination — as well as any confusingly similar name, icon, or visual design, in imitating, derivative, or competing applications, products, or services is prohibited in any form without the prior written consent of Dmitry Shatilov. Unauthorized use or imitation of the Trademark or any of its individual elements constitutes trademark infringement and may result in legal action, including claims for damages and injunctive relief.
 
 
 #### 16. APPLICABLE LAW
